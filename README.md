@@ -2,7 +2,7 @@
 
 # Adriano Pereira Silva Filho
 
-### Data Scientist & AI Engineer
+### Data Analyst & AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianopsf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriano.psf1@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-Data Scientist and AI Engineer with hands-on experience building end-to-end intelligent systems — from ETL pipelines and machine learning models to production-grade APIs with LLM integration. Passionate about turning raw data into actionable insights and scalable AI-powered products.
+Data Analyst and AI enthusiast with hands-on experience building end-to-end intelligent systems — from ETL pipelines and machine learning models to production-grade APIs with LLM integration. Passionate about turning raw data into actionable insights and scalable AI-powered products.
 
 - 🔭 Currently building AI agents and data pipelines for real-world business problems
 - 🧠 Deep interest in LLMs, RAG systems, and MLOps
