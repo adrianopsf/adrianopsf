@@ -95,7 +95,7 @@ BI Analyst deepening expertise in Data Engineering — building production-grade
 ### 🛍️ [Product Recommendation System](https://github.com/adrianopsf/recomendacao_produtos)
 > Machine learning-based **recommendation engine** for e-commerce, using collaborative and content-based filtering techniques.
 
-`Python` · `Machine Learning` · `Pandas` · `scikit-learn`
+`Python` · `Machine Learning` · `Docker` · `FastAPI` · `PostgreSQL` 
 
 ---
 
