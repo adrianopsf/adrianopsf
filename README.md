@@ -14,10 +14,15 @@
 ## About Me
 
 BI Analyst deepening expertise in Data Engineering — building production-grade pipelines with dbt, Airflow, BigQuery, and GCP. Background in SQL, dashboards, and analytics; now focused on scalable data infrastructure, data quality, and AI-integrated pipelines with LLMs and RAG architectures.
-🔭 Currently building data pipelines and modern data stacks for real-world business problems
-🧠 Deep interest in LLMs, RAG systems, and AI Engineering
-🏗️ Advocate for clean architecture, testable code, and production-ready solutions
-🛠️ Background in BI (SQL Server, PostgreSQL, Tableau, Metabase) — bridging analytics and engineering
+
+🔭 Currently building data pipelines and modern data stacks for real-world business problems.
+
+🧠 Deep interest in LLMs, RAG systems, and AI Engineering.
+
+🏗️ Advocate for clean architecture, testable code, and production-ready solutions.
+
+🛠️ Background in BI (SQL Server, PostgreSQL, Tableau, Metabase) — bridging analytics and engineering.
+
 📍 Based in Lages, Santa Catarina, Brazil
 
 ---
