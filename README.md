@@ -72,7 +72,7 @@ BI Analyst deepening expertise in Data Engineering — building production-grade
 | [retail-etl-pipeline](https://github.com/adrianopsf/retail-etl-pipeline) | End-to-end ETL pipeline for Olist Brazilian E-Commerce dataset with staging + analytics layers | Python · PostgreSQL · Docker · pytest | ✅ Live |
 | [ecommerce-modern-stack](https://github.com/adrianopsf/ecommerce-modern-stack) | Orchestrated ELT pipeline with dbt transformations and dimensional modeling | Airflow · dbt · DuckDB · GitHub Actions | ✅ Live |
 | [lakehouse-pipeline-gcp](https://github.com/adrianopsf/lakehouse-pipeline-gcp) | Medallion architecture (Bronze/Silver/Gold) on GCP free tier with BigQuery as analytical layer | GCP · BigQuery · PySpark · Terraform | 🚧 In Progress |
-| [data-quality-observability](https://github.com/adrianopsf/data-quality-observability) | Data quality validation and pipeline observability layer with alerting | Great Expectations · Soda · Terraform | 🚧 In Progress |
+| [data-quality-observability](https://github.com/adrianopsf/data-quality-observability) | Data quality validation and pipeline observability layer with alerting | Great Expectations · Soda · Terraform | ✅ Live |
 
 ---
 
